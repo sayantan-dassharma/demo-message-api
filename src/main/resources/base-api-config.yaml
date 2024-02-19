@@ -1,0 +1,4 @@
+api:
+  base: "message-app"
+  version: "v1"
+  code: "Message API"
