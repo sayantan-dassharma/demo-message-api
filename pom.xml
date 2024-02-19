@@ -4,7 +4,7 @@
 
 	<groupId>209540e7-adfb-457a-9626-bd806fc66499</groupId>
 	<artifactId>demo-message-app</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 
 	<name>demo-message-api</name>
@@ -25,7 +25,7 @@
 		<app.muleVersion>4.4.0</app.muleVersion>
 		<!-- <anypoint.user>Sayantan-DS-Feb24</anypoint.user>
 		<anypoint.pass>Rishyap@2014</anypoint.pass> -->
-		<app.name>demo-msg-app-dev</app.name>
+		<app.name>dummy-msg-app-dev</app.name>
 		<app.publicURL></app.publicURL>
 	</properties>
 
